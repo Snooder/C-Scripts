@@ -22,7 +22,7 @@ public class MouseCamLook : MonoBehaviour
         character = this.transform.parent.gameObject;
     }
 
-    // Update is called once per frame
+    // Update is called once per frame 
     void Update()
     {
         // md is mosue delta
